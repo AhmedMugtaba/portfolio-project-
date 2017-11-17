@@ -3,14 +3,20 @@ img {
     height: auto;
 }
 
-h2,h3,h5,h4 {
+h2,
+h3,
+h5,
+h4 {
     font-family: "Lato", sans-serif;
     font-size: 18px;
     margin: 10px;
     color: #02b3e4;
 }
 
-p,span,li, small {
+p,
+span,
+li, 
+small {
     margin: auto;
     font-family: sans-serif;
     font-size: 15px;
@@ -20,7 +26,7 @@ p,span,li, small {
 .header {
     font-size: 25px;
     color: #7d97ad;
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     margin-bottom: 20px;
     font-weight: 300;
 }
@@ -48,24 +54,19 @@ p,span,li, small {
     margin-top: 20px;
     text-align: right;
     color: #2d3c49;
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 200;
 }
 
 #ninja {
     margin-left: 25%;
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 300;
     color: #2d3c49;
 }
 
 .info-icon {
     width: 6%;
-}
-
-.card-img-top {
-    width: 100%;
-    height: 260px;
 }
 
 .card-deck {
@@ -91,23 +92,18 @@ p,span,li, small {
 
 }
 
-.row {
-    margin: 15px;
-    width: 100%;
-}
-
 .footer{
     margin: 45px;
 }
 
 .text-footer {
-    font-family: 'Lato', sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 300;
 }
 
 .info{
      color: #02b3e4;
-     font-family: 'Lato', sans-serif;
+     font-family: "Lato", sans-serif;
 }
 
 @media (max-width: 580px) {
